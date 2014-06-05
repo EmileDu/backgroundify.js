@@ -1,4 +1,4 @@
-# backgroundify.js by Emile Duval
+# backgroundify.js by
 
 A jQuery plugin to change your image in background.
 Create by [Emile Duval](http://www.emileduval.be)
