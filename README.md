@@ -29,11 +29,11 @@ All settings customizable:
 ````javascript
 container	// The parent of image
 position	// Can take all different value available for css background-position property (default value: center);
-size	// Can take all different value available for css background-size property (default value: cover);
-repeat	// Can take all different value available for css background-repeat property (default value: no-repeat);
+size		// Can take all different value available for css background-size property (default value: cover);
+repeat		// Can take all different value available for css background-repeat property (default value: no-repeat);
 attachment	// Can take all different value available for css background-attachment property (default value: fixed);
-origin	// Can take all different value available for css background-origin property (default value: padding-box);
-clip	// Can take all different value available for css background-clip property (default value: padding-box);
+origin		// Can take all different value available for css background-origin property (default value: padding-box);
+clip		// Can take all different value available for css background-clip property (default value: padding-box);
 ````
 
 ## More customization
